@@ -2,7 +2,7 @@
 <h3 align="center">A passionate FULLSTACK developer from Gujarat ✨</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Ffull-stack-developer-gif-18629164&psig=AOvVaw2GwL6zt9Gig96GlyKbNw56&ust=1677159698146000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNjP8u6gqf0CFQAAAAAdAAAAABAP">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 
 
 - 🔭 I’m currently pursuing **DCE 👨‍💻**
