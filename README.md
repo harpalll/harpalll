@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harpalsinh Sindhav</h1>
-<h3 align="center">A passionate frontend developer from Gujarat ✨</h3>
+<h3 align="center">A passionate FULLSTACK developer from Gujarat ✨</h3>
 
 
 <img align="right" alt="coding" width="400" src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w932">
