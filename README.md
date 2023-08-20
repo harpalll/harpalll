@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently pursuing **DCE 👨‍💻**
 
-- 🌱 I’m currently learning **React , php**
+- 🌱 I’m currently learning **React , Android**
 
 - 👨‍💻 you can see my portfolio at : [https://harpalsinhsindhav.netlify.app/](https://harpalsinhsindhav.netlify.app/)
 
