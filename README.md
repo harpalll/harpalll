@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently pursuing **DCE 👨‍💻**
 
-- 🌱 I’m currently learning **React , Android**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👨‍💻 you can see my portfolio at : [https://harpalsinhsindhav.netlify.app/](https://harpalsinhsindhav.netlify.app/)
 
