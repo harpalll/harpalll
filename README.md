@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harpalsinh Sindhav</h1>
-<h3 align="center">A passionate Fullstack Engineer from Gujarat ✨</h3>
+<h3 align="center">A passionate Fullstack Engineer</h3>
 
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
@@ -8,8 +8,6 @@
 - 🔭 I’m currently pursuing **CSE 👨‍💻**
 
 - 🌱 I’m currently learning **MERN STACK**
-
-- 👨‍💻 you can see my portfolio at : [https://harpalsinhsindhav.netlify.app/](https://harpalsinhsindhav.netlify.app/)
 
 - 📫 How to reach me **sindhavharpalsinh62@gmail.com**
 
