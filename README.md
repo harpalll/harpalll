@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently pursuing **CSE 👨‍💻**
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **Nextjs**
 
 - 📫 How to reach me **sindhavharpalsinh62@gmail.com**
 
