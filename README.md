@@ -1,47 +1,66 @@
-<h1 align="center">Hi 👋, I'm Harpalsinh Sindhav</h1>
-<h3 align="center">crafting scalable web experiences</h3>
-
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
-
-- open for roles: **fullstack-engineer, backend-engineer, frontend-engineer**
-
-- learning **Microservices and Distributed Systems**
-
-- mail: **sindhavharpalsinh62@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.x.com/harpalll_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://www.linkedin.com/in/harpalsinh-sindhav" height="30" width="40" /></a>  
-<a href="https://www.linkedin.com/in/harpalsinh-sindhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harpalsinh-sindhav" height="30" width="40" /></a>
-<a href="https://dev.to/harpalsinh5077" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="harpalsinh5077" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;MERN+Stack+Developer;Learning+Rust+And+Solana;Building+Scalable+Systems&center=true&width=500&height=45">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<table>
+<tr>
+<td width="65%" valign="top">
 
-<p align="left">
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" />
+<h2>Hi 👋, I'm Harpalsinh Sindhav</h2>
+<p><b>crafting scalable web experiences</b></p>
 
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-    
-  <a href="https://bun.sh/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" width="40" height="40" />
+<ul>
+<li>open for roles: <b>fullstack-engineer, backend-engineer, frontend-engineer</b></li>
+<li>learning <b>Microservices and Distributed Systems</b></li>
+<li>mail: <b>sindhavharpalsinh62@gmail.com</b></li>
+</ul>
 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
+<h3>Connect with me:</h3>
 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-    
-  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="40" height="40"/>
+<p>
+<a href="https://www.x.com/harpalll_dev" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30"/>
+</a>
+
+<a href="https://www.linkedin.com/in/harpalsinh-sindhav" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
+</a>
+
+<a href="https://dev.to/harpalsinh5077" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30"/>
+</a>
 </p>
 
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" width="320"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<h3>Languages and Tools:</h3>
+
+<p>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="40"/>
+
+</p>
